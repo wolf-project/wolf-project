@@ -9,4 +9,4 @@
    Linguagens: <strong>JavaScript,python,HTML e CSS.</strong>
 </p>
 
-<link href="https://wolf-project.github.io"><p>Link do portfólio</p></link>
+<a href="https://wolf-project.github.io"><p>Link do portfólio</p></a>
