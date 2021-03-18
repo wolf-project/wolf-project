@@ -11,4 +11,4 @@
 
 <a href="https://wolf-project.github.io"><p>Link do portfólio</p></a>
 <a href="https://github.com/wolf-project/DotfilesLinux"><p>Dotfiles</p></a>
-<a href="https://www.devmedia.com.br/html/introducao/exercicio/114"><p> Certificado HTML5</p></a>
+<a href="https://www.devmedia.com.br/certificado/tecnologia/html/victor-consuegra-costa"><p> Certificado HTML5</p></a>
