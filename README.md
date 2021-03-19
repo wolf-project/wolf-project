@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá sou desenvolvedor Front-End júnior <strong>estou em busca de recolocação no mercado</strong>.<br>
-  Atualmente estou fazendo cursos sobre: JavaScript e os principais frameworks do mercado !
+  Atualmente estou buscando aprimoramento com estudos em JavaScript junto dos principais frameworks do mercado !
 </p>
 
 <p align="left">
