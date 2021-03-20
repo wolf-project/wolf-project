@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-   Linguagens: <strong>JavaScript,python,HTML e CSS.</strong>
+   Linguagens: <strong>JavaScript,python,HTML5 e CSS3.</strong>
 </p>
 
 <a href="https://wolf-project.github.io"><p>Link do portfólio</p></a>
