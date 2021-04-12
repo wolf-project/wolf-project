@@ -7,11 +7,11 @@
 
 **Certifications**
   
-  [!] Introduction of Ethical Hacking
-  [!] Information Security management, ISO 27000 and 27001 based
-  [!] Detecting intrusions and CIRST on computionals grade
-  [!] Full Front-end programing 2021, Angular based
-  [!] HTML basic to advanced ( DevMedia )
+  - [x] Introduction of Ethical Hacking
+  - [x] Information Security management, ISO 27000 and 27001 based
+  - [x] Detecting intrusions and CIRST on computionals grade
+  - [x] Full Front-end programing 2021, Angular based
+  - [x] HTML basic to advanced ( DevMedia )
 
 
 >"Nearly all men can stand adversity, but if you want to test a man's character, give him power." — **Abraham Lincoln**
