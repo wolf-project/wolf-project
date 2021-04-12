@@ -1,14 +1,6 @@
-<img src="https://github.com/wolf-project/wolf-project.github.io/blob/master/images/imagepage.png">
+![sre](https://ibb.co/QvJNkT1)
 
-<p align="left"> 
-  Olá sou desenvolvedor Front-End júnior <strong>estou em busca de recolocação no mercado</strong>.<br>
-  Atualmente estou buscando aprimoramento com estudos em JavaScript junto dos principais frameworks do mercado !
-</p>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wolf-project)](https://github.com/wolf-project)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/consuegravictor/)](https://www.linkedin.com/in/consuegravictor/)
 
-<p align="left">
-   Linguagens: <strong>JavaScript,python,HTML5 e CSS3.</strong>
-</p>
 
-<a href="https://wolf-project.github.io"><p>Link do portfólio</p></a>
-<a href="https://github.com/wolf-project/DotfilesLinux"><p>Dotfiles</p></a>
-<a href="https://www.devmedia.com.br/certificado/tecnologia/html/victor-consuegra-costa"><p> Certificado HTML5</p></a>
